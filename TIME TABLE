@@ -1,0 +1,97 @@
+<html>
+<head>
+<title>TIME TABLE</title>
+</head>
+
+<body>
+<table border="1" cellpadding="12" cellspacing="3" WIDTH="400PX" HEIGHT="200PX">
+<CAPTION >TIME TABLE- 6CSE3</CAPTION>
+<tr>
+<th BGCOLOR=" BLUE">HOUR</TH>
+<th BGCOLOR=" BLUE">1</TH>
+<TH BGCOLOR=" BLUE">2</TH>
+<th BGCOLOR=" BLUE"></TH>
+<th BGCOLOR=" BLUE">3</TH>
+<th BGCOLOR=" BLUE">4</TH>
+<th BGCOLOR=" BLUE">5</TH>
+<th BGCOLOR=" BLUE">6</TH>
+<th BGCOLOR=" BLUE">7</TH>
+</TR>
+
+
+<tr>
+<th BGCOLOR=" BLUE">DAY/TIME</TH>
+<th BGCOLOR=" BLUE">9:00AM-9:55AM</TH>
+<TH BGCOLOR=" BLUE">10:00AM-10:55AM</TH>
+<th BGCOLOR=" BLUE">10:56AM-11:15AM</TH>
+<th BGCOLOR=" BLUE">11:15AM-12:10AM</TH>
+<th BGCOLOR=" BLUE">12:15AM-1:10AM</TH>
+<th BGCOLOR=" BLUE">1:10AM-2:05AM</TH>
+<th BGCOLOR=" BLUE">2:05AM-3:00AM</TH>
+<th BGCOLOR=" BLUE">3:05AM-4:00AM</TH>
+</TR>
+
+
+<tr>
+<th BGCOLOR=" BLUE">MONDAY</TH>
+<th>DIG.ENT</TH>
+<TH>GTC</TH>
+<th ROWSPAN=6 BGCOLOR="BROWN">TEA BREAK</TH>
+<th>DE2:ML/WDM/CS</TH>
+<th ROWSPAN=3 BGCOLOR="BROWN">LUNCH</TH>
+<th>IT</TH>
+<th COLSPAN=2>IT-LAB</TH>
+</TR>
+
+
+<tr>
+<th BGCOLOR=" BLUE">TUESDAY</TH>
+<th COLSPAN=2>NP-LAB</TH>
+<th>DIG.ENT</TH>
+<th>GTC</TH>
+<th COLSPAN=2>AT</TH>
+</TR>
+
+
+<tr>
+<th BGCOLOR=" BLUE">WEDNESDAY</TH>
+<th COLSPAN=2>AT</TH>
+<th>DE2:ML/WDM/CS</TH>
+<th>OOAD</TH>
+<th>DIG.ENT</TH>
+<th BGCOLOR="YELLOW">LIBRARY</TH>
+</TR>
+
+
+<tr>
+<th BGCOLOR=" BLUE">THURSDAY</TH>
+<th >OOAD</TH>
+<th>GTC</TH>
+<th COLSPAN=2>SST</TH>
+<th BGCOLOR="BROWN">LUNCH</TH>
+<th COLSPAN=2>NP-LAB</TH>
+</TR>
+
+<tr>
+<th BGCOLOR=" BLUE">FRIDAY</TH>
+<th COLSPAN=2>IT-LAB</TH>
+<th>DE2:ML/WDM/CS</TH>
+<th BGCOLOR="BROWN">LUNCH</TH>
+<th>GTC</TH>
+<th>OOAD</TH>
+<th BGCOLOR="YELLOW">CCH</TH>
+</TR>
+
+<tr>
+<th BGCOLOR=" BLUE">SATURDAY</TH>
+<th COLSPAN=2 BGCOLOR="GOLD">ACTIVITY LEARNING-1</TH>
+<th COLSPAN=2 BGCOLOR="GOLD">ACTIVITY LEARNING-2</TH>
+<th ></TH>
+<th></TH>
+<th></TH>
+
+</TR>
+
+
+</body>
+</html>

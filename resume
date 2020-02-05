@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>MY CV</title>
+<center><h1>CHETHANA</h1></center>
+<hr size=3></hr>
+<center>bangalore-8971745562-chethana1604@gmail.com</center>
+</head>
+
+
+<body bgcolor="lightblue">
+<a href="www.amazon.com">here</a>
+<a href="/home/6CSE3/TIME TABLE">TT</a>
+<a href=#ski>SKILLS</a>
+<a href="mailto:abc@gmail.com">MY EDUCATION</a>
+
+<div align="center" >
+<img  alt ="image" border="3" height="200" width="200" src="/home/6CSE3/Desktop/images.jpeg"/>
+</div>
+
+<div style="background-color:blue">
+<b><h3>PROFESSIONAL SUMMARY</h3></b>
+<p id="para">This is a resume summary statement that was for  a candidate returning to work after having her own business for 15+ years. Because of this, we needed to emphasize her soft skills and what she can bring to this potential position. In addition, we highlighted the skills she has honed as a business owner so that she can utilize these qualifications as a sales professional, account manager, and someone knowledgeable about nutrition, medicine, and the overall sales process.</p>
+</div>
+
+
+<div style="background-color:green" >
+<b><h3>WORK HISTORY</h3></b>
+<p><b>Senior Merchandizer</b>,10/2016 to current </br><b>Hallmark</b>-bangalore,bk
+<ul type="disk">
+<li>monitoring</li>
+<li>coordinated</li>
+<li>customer service management</li>
+</ul>
+</div>
+
+<div>
+<p><b>Merchandizer</b>,3/2013 to 10/2016</br><b>Hallmark</b>-bangalore,bk
+<ul type="disk">
+<li>monitoring</li>
+<li>coordinated</li>
+<li>customer service management</li>
+</ul>
+</div>
+
+<div>
+<p><b>customer service management</b>,5/2012 to 3/2016</br><b>Hallmark</b>-bangalore,bk
+<ul type="disk">
+<li>monitoring</li>
+<li>coordinated</li>
+<li>customer service management</li>
+</ul>
+</div>
+
+<div>
+<a name=ski></a>
+<b><h3>SKILLS</h3></b>
+<ul type="disk">
+<li>programming skills</li>
+<li>coding</li>
+<li>leadership quality</li>
+</ul>
+</div>
+
+<div>
+<b><h3>EDUCATION</h3></b>
+<p><b>Senior Merchandizer</b>,10/2016 to current </br><b>Hallmark</b>-bangalore,bk
+<ul type="disk">
+<li>presidency</li>
+<li>narayana</li>
+<li>cmr</li>
+</ul>
+</div>
+
+<a href="#para">here</a>
+</body>
+</html>
